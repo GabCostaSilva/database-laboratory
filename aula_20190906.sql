@@ -1,0 +1,1 @@
+-- USING -> pega atributos com nomes e domínios iguais
